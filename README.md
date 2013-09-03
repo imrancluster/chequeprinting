@@ -1,5 +1,5 @@
-chequeprinting
-==============
+Bank Cheque Printing Web Application
+===================================
 
 It's a cheque printing web application. I made it for Padma Group's cheque printing section.
 
